@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-iosApp/Pods-iosApp-resources.sh
+${PODS_ROOT}/../../core/src/commonMain/resources/ic_error.png
+${PODS_ROOT}/../../core/src/commonMain/resources/ic_launcher_background.xml
+${PODS_ROOT}/../../core/src/commonMain/resources/logo_vrs.png
+${PODS_ROOT}/../../core/src/commonMain/resources/splash_background.png
